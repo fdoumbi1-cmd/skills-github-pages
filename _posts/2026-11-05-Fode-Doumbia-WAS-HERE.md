@@ -1,0 +1,5 @@
+---
+title: "Fode-Doumbia-WAS-HERE"
+date: 2026-11-05
+---
+Hi I'm Fode Doumbia currently attending UMBC I'm going to build virtual reality games with realistic deep learning powered npcs.
